@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammet Emin</h1>
-<h3 align="center">A blender artist and a Unity developer.</h3>
+<h3 align="center">A Blender artist and a Unity developer.</h3>
 
 - 🔭 I’m currently working on [a hyper-casual mobile game's assets.](https://github.com/HamzaAlbas/Dodge-Expert)
 
